@@ -1,0 +1,25 @@
+body, head, img, nav, ul, li, a, 
+aside, h2, h1, figure, figcaption, ol, 
+section, form, label, input, select, 
+option, textarea, footer, p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    text-align: inherit;
+    text-decoration: inherit;
+    color: inherit;
+    background: inherit;
+    font-family: sans-serif;
+}
+
+body {
+    color: red;
+    font-family: sans-serif;
+}
+
+ul {
+    color: blue;
+    font-family: serif;
+}
+
